@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant\\AppForRestaurant.csproj": {}
+    "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant\\AppForRestaurant.csproj": {}
   },
   "projects": {
-    "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Core\\AppForRestaurant.Core.csproj": {
+    "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Core\\AppForRestaurant.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Core\\AppForRestaurant.Core.csproj",
+        "projectUniqueName": "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Core\\AppForRestaurant.Core.csproj",
         "projectName": "AppForRestaurant.Core",
-        "projectPath": "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Core\\AppForRestaurant.Core.csproj",
-        "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-        "outputPath": "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Core\\obj\\",
+        "projectPath": "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Core\\AppForRestaurant.Core.csproj",
+        "packagesPath": "C:\\Users\\dejan\\.nuget\\packages\\",
+        "outputPath": "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dejan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dejan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -53,27 +50,30 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Data\\AppForRestaurant.Data.csproj": {
+    "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Data\\AppForRestaurant.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Data\\AppForRestaurant.Data.csproj",
+        "projectUniqueName": "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Data\\AppForRestaurant.Data.csproj",
         "projectName": "AppForRestaurant.Data",
-        "projectPath": "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Data\\AppForRestaurant.Data.csproj",
-        "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-        "outputPath": "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Data\\obj\\",
+        "projectPath": "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Data\\AppForRestaurant.Data.csproj",
+        "packagesPath": "C:\\Users\\dejan\\.nuget\\packages\\",
+        "outputPath": "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dejan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dejan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,8 +86,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Core\\AppForRestaurant.Core.csproj": {
-                "projectPath": "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Core\\AppForRestaurant.Core.csproj"
+              "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Core\\AppForRestaurant.Core.csproj": {
+                "projectPath": "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Core\\AppForRestaurant.Core.csproj"
               }
             }
           }
@@ -113,27 +113,30 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant\\AppForRestaurant.csproj": {
+    "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant\\AppForRestaurant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant\\AppForRestaurant.csproj",
+        "projectUniqueName": "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant\\AppForRestaurant.csproj",
         "projectName": "AppForRestaurant",
-        "projectPath": "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant\\AppForRestaurant.csproj",
-        "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-        "outputPath": "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant\\obj\\",
+        "projectPath": "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant\\AppForRestaurant.csproj",
+        "packagesPath": "C:\\Users\\dejan\\.nuget\\packages\\",
+        "outputPath": "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dejan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dejan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -146,8 +149,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Data\\AppForRestaurant.Data.csproj": {
-                "projectPath": "F:\\Projekti DOT Net Core trening\\AppForRestaurant\\AppForRestaurant.Data\\AppForRestaurant.Data.csproj"
+              "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Data\\AppForRestaurant.Data.csproj": {
+                "projectPath": "C:\\DKaranovic\\ProjectsForTrening\\AppForRestaurant\\AppForRestaurant.Data\\AppForRestaurant.Data.csproj"
               }
             }
           }
@@ -183,10 +186,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

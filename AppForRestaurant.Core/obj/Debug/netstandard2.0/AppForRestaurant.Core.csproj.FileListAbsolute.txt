@@ -123,3 +123,25 @@ F:\Projekti DOT Net Core trening\AppForRestaurant\AppForRestaurant.Core\obj\Debu
 F:\Projekti DOT Net Core trening\AppForRestaurant\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.RazorTargetAssemblyInfo.cache
 F:\Projekti DOT Net Core trening\AppForRestaurant\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.dll
 F:\Projekti DOT Net Core trening\AppForRestaurant\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.pdb
+C:\DKaranovic\TreningProjects\AppForRestaurant.Core\bin\Debug\netstandard2.0\AppForRestaurant.Core.deps.json
+C:\DKaranovic\TreningProjects\AppForRestaurant.Core\bin\Debug\netstandard2.0\AppForRestaurant.Core.dll
+C:\DKaranovic\TreningProjects\AppForRestaurant.Core\bin\Debug\netstandard2.0\AppForRestaurant.Core.pdb
+C:\DKaranovic\TreningProjects\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.csprojAssemblyReference.cache
+C:\DKaranovic\TreningProjects\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.RazorAssemblyInfo.cache
+C:\DKaranovic\TreningProjects\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.RazorAssemblyInfo.cs
+C:\DKaranovic\TreningProjects\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.AssemblyInfoInputs.cache
+C:\DKaranovic\TreningProjects\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.AssemblyInfo.cs
+C:\DKaranovic\TreningProjects\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.RazorTargetAssemblyInfo.cache
+C:\DKaranovic\TreningProjects\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.dll
+C:\DKaranovic\TreningProjects\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.pdb
+C:\DKaranovic\ProjectsForTrening\AppForRestaurant\AppForRestaurant.Core\bin\Debug\netstandard2.0\AppForRestaurant.Core.deps.json
+C:\DKaranovic\ProjectsForTrening\AppForRestaurant\AppForRestaurant.Core\bin\Debug\netstandard2.0\AppForRestaurant.Core.dll
+C:\DKaranovic\ProjectsForTrening\AppForRestaurant\AppForRestaurant.Core\bin\Debug\netstandard2.0\AppForRestaurant.Core.pdb
+C:\DKaranovic\ProjectsForTrening\AppForRestaurant\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.csprojAssemblyReference.cache
+C:\DKaranovic\ProjectsForTrening\AppForRestaurant\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.RazorAssemblyInfo.cache
+C:\DKaranovic\ProjectsForTrening\AppForRestaurant\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.RazorAssemblyInfo.cs
+C:\DKaranovic\ProjectsForTrening\AppForRestaurant\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.AssemblyInfoInputs.cache
+C:\DKaranovic\ProjectsForTrening\AppForRestaurant\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.AssemblyInfo.cs
+C:\DKaranovic\ProjectsForTrening\AppForRestaurant\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.RazorTargetAssemblyInfo.cache
+C:\DKaranovic\ProjectsForTrening\AppForRestaurant\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.dll
+C:\DKaranovic\ProjectsForTrening\AppForRestaurant\AppForRestaurant.Core\obj\Debug\netstandard2.0\AppForRestaurant.Core.pdb
